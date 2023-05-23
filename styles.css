@@ -1,7 +1,7 @@
 .main{
 	background-color: #f5f5f5;
 }
-.heading{
+.header{
 	background-color:#011e29;
 	color:white;
 	padding:10px;
@@ -16,11 +16,14 @@
 	align-content:space-around;
 }
 .items{
+	text-align:center;
 	background-color:white;
 	border-radius:5px;
-	width:30%;
+	
 	
 }
 .img{
+	display:flex;
+	align-content:left;
 	width:100px;
 }
