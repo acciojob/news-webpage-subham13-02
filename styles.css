@@ -13,7 +13,7 @@
 .main-items{
 	display:flex;
 	gap:10px;
-	align-content:space-around;
+	align-items:space-around;
 }
 .items{
 	text-align:center;
