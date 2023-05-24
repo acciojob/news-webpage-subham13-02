@@ -11,32 +11,35 @@
 	justify-content:center;
 }
 .main-items{
+	padding:20px;
 	display:flex;
 	gap-between:100px;
-
-	align-content:space-around;
+	justify-content:space-around;
 }
 .latest-news-section{
+	width:24%;
 	text-align:center;
 	background-color:white;
 	border-radius:5px;
 }
 .items{
+	width:50%;
 	text-align:center;
 	background-color:white;
+	justify-content:20px;
 	border-radius:5px;
 }
 .pictorial-news-section{
-
-	width:100px;
+	
+	width:24%;
 	display:flex;
 	background-color:white;
 	text-align:center;
-	
+	align-items:flex-start;
 	border-radius:5px;
 }
 .img{
-	align-content:space-around;
+	display:flex;
 	width:100px;
 	height:100px;
 }
